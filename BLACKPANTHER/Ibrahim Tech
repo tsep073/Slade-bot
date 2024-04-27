@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "Ibrahim Adams",
+  "AUTHOR": "Tsepo Mohlomi",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": { 
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },    
       "global": {     
-          "botName": "blackpanther",
+          "botName": "Slade bot",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir", 
           "pic1": "https://i.imgur.com/NpA3ZsJ.jpeg",
@@ -34,7 +34,7 @@
           "mention": " Please mention any user Sir",
           "title": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ",
           "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/IbrahimTechInfo",
-          "by": "Made by: *IbrahimTechInfo*",
+          "by": "Made by: *Tsepo Mohlomi*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
           "dot": "Did you mean *help?*",
